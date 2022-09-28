@@ -2,6 +2,8 @@ package com.demo.models;
 
 public class Student {
 
+	// This is my student management project
+	
 	//properties //fields //variables
 	private int studentId;
 	private String studentName;
